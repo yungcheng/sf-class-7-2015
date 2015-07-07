@@ -72,7 +72,5 @@ public class Student implements Comparable<Student> {
 					: o1.gpa < o2.gpa ? -1
 					: 0;
 		}
-
 	}
-
 }
