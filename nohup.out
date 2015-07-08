@@ -1,0 +1,22 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/simon/sfworkspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.5.0.20140606-0033.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+No bp log location saved, using default.
+[000:000] Cpu: 6.60.3, x8, 2401Mhz, 15961MB
+[000:000] Computer model: Not available
+[000:000] Browser XEmbed support present: 1
+[000:000] Browser toolkit is Gtk2.
+[000:000] Using Gtk2 toolkit
+No bp log location saved, using default.
+[000:000] Cpu: 6.60.3, x8, 2401Mhz, 15961MB
+[000:000] Computer model: Not available
+[000:001] No bp log location saved, using default.
+[000:002] Cpu: 6.60.3, x8, 2401Mhz, 15961MB
+[000:002] Computer model: Not available
+[000:002] Browser XEmbed support present: 1
+[000:002] Browser toolkit is Gtk2.
+[000:002] Using Gtk2 toolkit
+[000:004] No bp log location saved, using default.
+[000:005] Cpu: 6.60.3, x8, 2401Mhz, 15961MB
+[000:005] Computer model: Not available

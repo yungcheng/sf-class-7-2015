@@ -1,10 +1,11 @@
 package streams;
 
-import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.IntSummaryStatistics;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Words {
 
@@ -20,6 +21,7 @@ public class Words {
 //			.count();
 		System.out.println("stats are " + c);
 			//			.forEach(s->System.out.println(s));
+		
 	}
 
 }
